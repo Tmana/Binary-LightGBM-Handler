@@ -1,5 +1,4 @@
 """
-### DataRobot ML Take Home Test ###
 Author: Tanner Robart 
 Date: August 2019 
 Python version: Python 3.7
